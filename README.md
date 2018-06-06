@@ -10,3 +10,6 @@
 
 ## OOPS
 - Interface vs Abstract class vs mixin https://stackoverflow.com/a/15605119
+
+## Python
+- Class vs Instance attributes https://www.toptal.com/python/python-class-attributes-an-overly-thorough-guide
