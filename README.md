@@ -10,6 +10,7 @@
 
 ## OOPS
 - Interface vs Abstract class vs mixin https://stackoverflow.com/a/15605119
+- Inheritance vs Composition https://www.thoughtworks.com/insights/blog/composition-vs-inheritance-how-choose
 
 ## Python
 - Class vs Instance attributes https://www.toptal.com/python/python-class-attributes-an-overly-thorough-guide
