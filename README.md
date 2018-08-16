@@ -14,3 +14,6 @@
 
 ## Python
 - Class vs Instance attributes https://www.toptal.com/python/python-class-attributes-an-overly-thorough-guide
+
+## OS
+- Physical vs Virtual Memory https://stackoverflow.com/a/48835605/4434664
