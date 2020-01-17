@@ -1,4 +1,5 @@
 # Interesting/Useful articles
+A compilation of various articles/videos that I've found to be insightful, and interesting over the course of my computer science career
 
 
 ## Compiled/Interpreted 
@@ -14,6 +15,7 @@
 
 ## Python
 - Class vs Instance attributes https://www.toptal.com/python/python-class-attributes-an-overly-thorough-guide
+- GIL https://www.youtube.com/watch?v=Obt-vMVdM8s&list=PLlgnub_DBR_C6oTnvDO_LSUOpdmCfvHM2&index=7&t=0s
 
 ## OS
 - Physical vs Virtual Memory https://stackoverflow.com/a/48835605/4434664
