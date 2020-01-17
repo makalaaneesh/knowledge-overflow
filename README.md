@@ -18,6 +18,7 @@ A compilation of various articles/videos that I've found to be insightful, and i
 - GIL https://www.youtube.com/watch?v=Obt-vMVdM8s&list=PLlgnub_DBR_C6oTnvDO_LSUOpdmCfvHM2&index=7&t=0s
 - Names, Values, Assignment, Mutability https://www.youtube.com/watch?v=_AEJHKGk9ns&list=PLlgnub_DBR_C6oTnvDO_LSUOpdmCfvHM2&index=5&t=1330s
 - Is python call by value of call by reference https://jeffknupp.com/blog/2012/11/13/is-python-callbyvalue-or-callbyreference-neither/
+- [Public/Protected/Private in Python](https://radek.io/2011/07/21/private-protected-and-public-in-python/)
 
 ## OS
 - Physical vs Virtual Memory https://stackoverflow.com/a/48835605/4434664
