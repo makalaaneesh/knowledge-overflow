@@ -22,3 +22,6 @@ A compilation of various articles/videos that I've found to be insightful, and i
 
 ## OS
 - Physical vs Virtual Memory https://stackoverflow.com/a/48835605/4434664
+
+## Paradigms
+- [Event driven vs thread driven](https://stackoverflow.com/questions/25280207/what-are-the-differences-between-event-driven-and-thread-based-server-system)
