@@ -25,3 +25,4 @@ A compilation of various articles/videos that I've found to be insightful, and i
 
 ## Paradigms
 - [Event driven vs thread driven](https://stackoverflow.com/questions/25280207/what-are-the-differences-between-event-driven-and-thread-based-server-system)
+- [Event vs log](https://charity.wtf/2019/02/05/logs-vs-structured-events/)
