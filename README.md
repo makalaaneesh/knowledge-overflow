@@ -29,3 +29,4 @@ A compilation of various articles/videos that I've found to be insightful, and i
 ## Paradigms
 - [Event driven vs thread driven](https://stackoverflow.com/questions/25280207/what-are-the-differences-between-event-driven-and-thread-based-server-system)
 - [Event vs log](https://charity.wtf/2019/02/05/logs-vs-structured-events/)
+- [Concurrency vs Parallelism](https://stackoverflow.com/questions/1050222/what-is-the-difference-between-concurrency-and-parallelism)
