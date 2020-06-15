@@ -23,6 +23,9 @@ A compilation of various articles/videos that I've found to be insightful, and i
 ## OS
 - Physical vs Virtual Memory https://stackoverflow.com/a/48835605/4434664
 
+## Backend Server-Sied
+- [IO comparison between languages](https://www.toptal.com/back-end/server-side-io-performance-node-php-java-go)
+
 ## Paradigms
 - [Event driven vs thread driven](https://stackoverflow.com/questions/25280207/what-are-the-differences-between-event-driven-and-thread-based-server-system)
 - [Event vs log](https://charity.wtf/2019/02/05/logs-vs-structured-events/)
