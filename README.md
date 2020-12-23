@@ -8,6 +8,7 @@ A compilation of various articles/videos that I've found to be insightful, and i
 
 ## Strings/Encoding/Unicode
 - https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/
+- [why we use hexadecimal](https://medium.com/@savas/why-do-we-use-hexadecimal-d6d80b56f026)
 
 ## OOPS
 - Interface vs Abstract class vs mixin https://stackoverflow.com/a/15605119
